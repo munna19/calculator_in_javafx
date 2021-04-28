@@ -9,6 +9,11 @@ import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
 import java.io.FileInputStream;
+/*
+     #####     #####     #####
+     @author: Abdul Al Mamun (Munna)
+     #####     #####     #####
+*/
 
 public class Main extends Application {
 

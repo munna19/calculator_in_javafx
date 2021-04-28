@@ -11,7 +11,11 @@ import java.util.ResourceBundle;
 
 import java.lang.Math;
 //import static java.lang.Math.sqrt;
-
+/*
+     #####     #####     #####
+     @author: Abdul Al Mamun (Munna)
+     #####     #####     #####
+*/
 
 public class Controller implements Initializable {
 
